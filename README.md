@@ -10,9 +10,10 @@ Specifications:
 
 U-Shaped Sensor Gap: 5mm
 Output Signal Explaination: when the IR beam is unobstructed (not blocked by the encoder disc) it outputs a logic-LOW level(0); when blocked it outputs HIGH Level(1).
-IR Signal Trigger: SN74LVC1G14 Single Schmitt-Trigger Inverter
-Dimension: 32x 14mm
-Weight: 1.9g
+IR Signal Trigger: SN74LVC1G14 Single Schmitt-Trigger Inverter.
+Dimension: 32x 14mm.
+Weight: 1.9g.
+
 
 Product Buy Link:
 https://www.smart-prototyping.com/Prototyping-Modules/zio/Zio-Rotary-Encoder-Sensor
