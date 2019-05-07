@@ -1,7 +1,7 @@
 # Zio-Rotary-Encoder-Sensor
 ![](rotary-encoder-sensor.png)
 
-> This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-Rotary-Encoder-SensorC).
+> This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-Rotary-Encoder-Sensor).
 
 
 
